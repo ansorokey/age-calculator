@@ -6,5 +6,6 @@ This project was made by following [How To Build Age Calculator App Using HTML C
 ## Key Features and Technologies
 
 ## How To Use
+Enter your birthday in the input field. Click calculate to see your age in years, months, and days.
 
 ## Future Features
